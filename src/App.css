@@ -1,0 +1,9 @@
+.App {
+  justify-content: center;
+  height: 100vh;
+}
+
+#clock {
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 70px;
+}
