@@ -103,7 +103,7 @@ const Board: FC<BoardProps> = ({ numCols = 5, numRows = 5 }) => {
         <button
           type="button"
           className="restart-btn"
-          onClick={() => handlePlayAgainClick(0)}
+          onClick={() => handlePlayAgainClick()}
         >
           Restart
         </button>
